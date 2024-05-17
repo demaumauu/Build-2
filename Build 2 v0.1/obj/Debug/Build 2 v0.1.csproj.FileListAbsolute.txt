@@ -1,0 +1,17 @@
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\Build 2 v0.1.exe.config
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\Build 2 v0.1.exe
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\Build 2 v0.1.pdb
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build 2 v0.1.csproj.AssemblyReference.cache
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build 2 v0.1.csproj.SuggestedBindingRedirects.cache
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build_2_v0._1.Properties.Resources.resources
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build 2 v0.1.csproj.GenerateResource.cache
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build 2 v0.1.csproj.CoreCompileInputs.cache
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build 2 v0.1.exe
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build 2 v0.1.pdb
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build_2_v0._1.Title_Screen.resources
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build_2_v0._1.Menu.resources
+H:\Programming\Build 2 v0.1\Build 2 v0.1\obj\Debug\Build_2_v0._1.Tutorial.resources
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\images\monkey.png
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\images\rocketship.png
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\images\star.png
+H:\Programming\Build 2 v0.1\Build 2 v0.1\bin\Debug\images\spaceimage.jpg
